@@ -1,30 +1,40 @@
 # Rent A Vehicle
 
 Rent A Vehicle is an ASP.Net Web Application (.Net Framework 4.8) build using the following technologies:
-• ASP.net (VB.net) 
-• JavaScript 
-• SQL Server & SQL Server Management Studio 
-• Visual Studio
 
-The application has 3 screens
-• Home
-• Vehicles Listing
-• Contracts Listing
+â€¢ ASP.net (VB.net) 
 
-## Vehicles Listing
+â€¢ JavaScript 
 
-• Here we list all the vehicles registered with us and available for rent.
-• User can see details of the vehicle by going to the details page.
-• User can rent the vehicle by clicking on the rent button for the vehicle and the user will be redirected to "Contract Create" page.
+â€¢ SQL Server & SQL Server Management Studio 
 
-## Vehicle Create/Edit/Delete
+â€¢ Visual Studio
 
-• When a user is logged-in, these actions will shown to user in "Vehicles Listing" page.
 
-## Contracts Listing
+## The application has 3 screens
 
-• When a user is logged-in, the contract listing page will list all the contracts.
+â€¢ Home
 
-## Contract Create/Edit/Delete
+â€¢ Vehicles Listing
 
-• When a user is logged-in, these actions will shown to user in "Contracts Listing" page.
+â€¢ Contracts Listing
+
+### Vehicles Listing
+
+â€¢ Here we list all the vehicles registered with us and available for rent.
+
+â€¢ User can see details of the vehicle by going to the details page.
+
+â€¢ User can rent the vehicle by clicking on the rent button for the vehicle and the user will be redirected to "Contract Create" page.
+
+### Vehicle Create/Edit/Delete
+
+â€¢ When a user is logged-in, these actions will shown to user in "Vehicles Listing" page.
+
+### Contracts Listing
+
+â€¢ When a user is logged-in, the contract listing page will list all the contracts.
+
+#### Contract Create/Edit/Delete
+
+â€¢ When a user is logged-in, these actions will shown to user in "Contracts Listing" page.
